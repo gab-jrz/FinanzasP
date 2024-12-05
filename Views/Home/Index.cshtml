@@ -1,0 +1,32 @@
+﻿@model IEnumerable<FinanzasPersonales.DTOs.GastoDto>
+
+@if (Model != null && Model.Any())
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Fecha</th>
+                <th>Detalle</th>
+                <th>Categoría</th>
+                <th>Monto</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var gasto in Model)
+            {
+                <tr>
+                    <td>@gasto.Fecha</td>
+                    <td>@gasto.Detalle</td>
+                    <td>@gasto.Categoria</td>
+                    <td>@gasto.Monto</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay gastos registrados.</p>
+}
+
+

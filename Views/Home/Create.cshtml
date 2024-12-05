@@ -1,0 +1,19 @@
+﻿@model FinanzasPersonales.Entities.Gasto
+
+<h2>Crear Gasto</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="Descripcion">Descripcion</label>
+        <input type="text" class="form-control" id="Descripcion" name="Descripcion" value="@Model.Descripción" required />
+    </div>
+    <div class="form-group">
+        <label for="Fecha">Fecha</label>
+        <input type="date" class="form-control" id="Fecha" name="Fecha" value="@Model.Fecha.ToString("yyyy-MM-dd")" required />
+    </div>
+    <div class="form-group">
+        <label for="Monto">Monto</label>
+        <input type="number" class="form-control" id="Monto" name="Monto" value="@Model.Monto" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>

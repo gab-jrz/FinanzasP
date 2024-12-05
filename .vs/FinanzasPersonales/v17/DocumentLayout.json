@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\gabriela\\BACK END\\FinanzasPersonales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{487C87C9-08FC-4E01-93A0-A07CE1766F84}|FinanzasPersonales.csproj|c:\\users\\gabri\\onedrive\\documentos\\gabriela\\back end\\finanzaspersonales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487C87C9-08FC-4E01-93A0-A07CE1766F84}|FinanzasPersonales.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487C87C9-08FC-4E01-93A0-A07CE1766F84}|FinanzasPersonales.csproj|c:\\users\\gabri\\onedrive\\documentos\\gabriela\\back end\\finanzaspersonales\\mappings\\gastoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487C87C9-08FC-4E01-93A0-A07CE1766F84}|FinanzasPersonales.csproj|solutionrelative:mappings\\gastoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487C87C9-08FC-4E01-93A0-A07CE1766F84}|FinanzasPersonales.csproj|c:\\users\\gabri\\onedrive\\documentos\\gabriela\\back end\\finanzaspersonales\\dtos\\gastodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487C87C9-08FC-4E01-93A0-A07CE1766F84}|FinanzasPersonales.csproj|solutionrelative:dtos\\gastodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gabriela\\BACK END\\FinanzasPersonales\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gabriela\\BACK END\\FinanzasPersonales\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:06:30.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GastoProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gabriela\\BACK END\\FinanzasPersonales\\Mappings\\GastoProfile.cs",
+              "RelativeDocumentMoniker": "Mappings\\GastoProfile.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gabriela\\BACK END\\FinanzasPersonales\\Mappings\\GastoProfile.cs",
+              "RelativeToolTip": "Mappings\\GastoProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:03:42.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GastoDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\gabriela\\BACK END\\FinanzasPersonales\\DTOs\\GastoDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\GastoDto.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\gabriela\\BACK END\\FinanzasPersonales\\DTOs\\GastoDto.cs",
+              "RelativeToolTip": "DTOs\\GastoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T22:02:18.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
